@@ -28,4 +28,3 @@ git-lab/
 ```bash
 python3 src/main.py
 ```
-Тест защиты ветки main
